@@ -1,1 +1,1 @@
-# FastSVM
+# FastSVM Semi Supervised Classifiation Algorithm
